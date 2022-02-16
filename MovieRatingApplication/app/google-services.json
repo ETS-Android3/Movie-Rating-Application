@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376021414440",
+    "project_id": "movie-rating-application-e6656",
+    "storage_bucket": "movie-rating-application-e6656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376021414440:android:27b10549aacb1343cc7b1d",
+        "android_client_info": {
+          "package_name": "com.example.movieratingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376021414440-rkqq9kk1r8rt14es6h3d5nmst4g4e713.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiDjqxx71g31938y8pEBVirUN04UsuHoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376021414440-rkqq9kk1r8rt14es6h3d5nmst4g4e713.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
